@@ -1,0 +1,1690 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+                              ./src/Config/Temp/Temp.o (ADCIntStatus)
+C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+                              ./src/Config/Comm/Comm.o (GPIOPinTypeUART)
+C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+                              ./main.o (IntMasterEnable)
+C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+                              ./src/Config/Temp/Temp.o (SysCtlPeripheralEnable)
+C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(cpu.o)
+                              C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o) (CPUcpsid)
+c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-strcmp.o)
+                              ./src/Loop/Eval/cmdline.o (strcmp)
+
+Allocating common symbols
+Common symbol       size              file
+
+ui32_ADC0_vector    0x4               ./src/Config/Temp/Temp.o
+
+Discarded input sections
+
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Read/Read.o
+ .text          0x00000000        0x0 ./src/Loop/Read/Read.o
+ .data          0x00000000        0x0 ./src/Loop/Read/Read.o
+ .bss           0x00000000        0x0 ./src/Loop/Read/Read.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Print.o
+ .text          0x00000000        0x0 ./src/Loop/Print/Print.o
+ .data          0x00000000        0x0 ./src/Loop/Print/Print.o
+ .bss           0x00000000        0x0 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000      0xaa8 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000       0x22 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000       0x22 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000       0x8e ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000       0x51 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000      0x103 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000       0x6a ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000      0x1df ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000       0x58 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000       0x10 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000      0x25e ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000       0x67 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000      0xa88 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000      0x101 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000      0x312 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000       0x16 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000       0x22 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000       0x22 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000       0x10 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000       0x18 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000       0x5e ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000       0x35 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000       0x34 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000       0x16 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000      0x10e ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000       0x8d ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000       0x16 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000       0x43 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000       0x34 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000       0x10 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000       0x58 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000      0x182 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000      0x339 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000       0x16 ./src/Loop/Print/Print.o
+ .debug_macro   0x00000000       0x29 ./src/Loop/Print/Print.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Print/Screens.o
+ .text          0x00000000        0x0 ./src/Loop/Print/Screens.o
+ .data          0x00000000        0x0 ./src/Loop/Print/Screens.o
+ .bss           0x00000000        0x0 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000      0xaa8 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000       0x22 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000       0x18 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000       0x35 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000       0x34 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000      0x339 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000       0x16 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000       0x43 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000       0x34 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000       0x10 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000       0x58 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000      0x182 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000       0x6a ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000       0x22 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000      0x103 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000      0x1df ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000       0x58 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000       0x10 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000      0x25e ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000       0x67 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000      0xa88 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000      0x101 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000      0x312 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000       0x16 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000       0x22 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00000000       0x22 ./src/Loop/Print/Screens.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Commands.o
+ .text          0x00000000        0x0 ./src/Loop/Eval/Commands.o
+ .data          0x00000000        0x0 ./src/Loop/Eval/Commands.o
+ .bss           0x00000000        0x0 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000      0xaa8 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x22 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x22 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x8e ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x51 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000      0x103 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x6a ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000      0x1df ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x58 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x10 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000      0x25e ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x67 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000      0xa88 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000      0x101 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000      0x312 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x16 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x22 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x22 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x1c ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x10 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x18 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x5e ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x35 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x34 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x16 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000      0x10e ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x8d ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x16 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x43 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x34 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x10 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x58 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000      0x182 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000      0x339 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x16 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x29 ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00000000       0x1c ./src/Loop/Eval/Commands.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Evaluate.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Evaluate.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Evaluate.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Evaluate.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Evaluate.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Evaluate.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Evaluate.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Evaluate.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Evaluate.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Evaluate.o
+ .group         0x00000000        0xc ./src/Loop/Eval/Evaluate.o
+ .text          0x00000000        0x0 ./src/Loop/Eval/Evaluate.o
+ .data          0x00000000        0x0 ./src/Loop/Eval/Evaluate.o
+ .bss           0x00000000        0x0 ./src/Loop/Eval/Evaluate.o
+ .debug_macro   0x00000000      0xaa8 ./src/Loop/Eval/Evaluate.o
+ .debug_macro   0x00000000       0x22 ./src/Loop/Eval/Evaluate.o
+ .debug_macro   0x00000000       0x22 ./src/Loop/Eval/Evaluate.o
+ .debug_macro   0x00000000       0x8e ./src/Loop/Eval/Evaluate.o
+ .debug_macro   0x00000000       0x51 ./src/Loop/Eval/Evaluate.o
+ .debug_macro   0x00000000      0x103 ./src/Loop/Eval/Evaluate.o
+ .debug_macro   0x00000000       0x6a ./src/Loop/Eval/Evaluate.o
+ .debug_macro   0x00000000      0x1df ./src/Loop/Eval/Evaluate.o
+ .debug_macro   0x00000000       0x22 ./src/Loop/Eval/Evaluate.o
+ .debug_macro   0x00000000       0x58 ./src/Loop/Eval/Evaluate.o
+ .debug_macro   0x00000000       0x10 ./src/Loop/Eval/Evaluate.o
+ .group         0x00000000        0xc ./src/Loop/Eval/cmdline.o
+ .group         0x00000000        0xc ./src/Loop/Eval/cmdline.o
+ .group         0x00000000        0xc ./src/Loop/Eval/cmdline.o
+ .group         0x00000000        0xc ./src/Loop/Eval/cmdline.o
+ .group         0x00000000        0xc ./src/Loop/Eval/cmdline.o
+ .group         0x00000000        0xc ./src/Loop/Eval/cmdline.o
+ .group         0x00000000        0xc ./src/Loop/Eval/cmdline.o
+ .group         0x00000000        0xc ./src/Loop/Eval/cmdline.o
+ .group         0x00000000        0xc ./src/Loop/Eval/cmdline.o
+ .group         0x00000000        0xc ./src/Loop/Eval/cmdline.o
+ .group         0x00000000        0xc ./src/Loop/Eval/cmdline.o
+ .group         0x00000000        0xc ./src/Loop/Eval/cmdline.o
+ .group         0x00000000        0xc ./src/Loop/Eval/cmdline.o
+ .group         0x00000000        0xc ./src/Loop/Eval/cmdline.o
+ .group         0x00000000        0xc ./src/Loop/Eval/cmdline.o
+ .group         0x00000000        0xc ./src/Loop/Eval/cmdline.o
+ .group         0x00000000        0xc ./src/Loop/Eval/cmdline.o
+ .group         0x00000000        0xc ./src/Loop/Eval/cmdline.o
+ .group         0x00000000        0xc ./src/Loop/Eval/cmdline.o
+ .group         0x00000000        0xc ./src/Loop/Eval/cmdline.o
+ .group         0x00000000        0xc ./src/Loop/Eval/cmdline.o
+ .group         0x00000000        0xc ./src/Loop/Eval/cmdline.o
+ .group         0x00000000        0xc ./src/Loop/Eval/cmdline.o
+ .text          0x00000000        0x0 ./src/Loop/Eval/cmdline.o
+ .data          0x00000000        0x0 ./src/Loop/Eval/cmdline.o
+ .bss           0x00000000        0x0 ./src/Loop/Eval/cmdline.o
+ .debug_macro   0x00000000      0xaa8 ./src/Loop/Eval/cmdline.o
+ .debug_macro   0x00000000       0x22 ./src/Loop/Eval/cmdline.o
+ .debug_macro   0x00000000       0x22 ./src/Loop/Eval/cmdline.o
+ .debug_macro   0x00000000       0x8e ./src/Loop/Eval/cmdline.o
+ .debug_macro   0x00000000       0x51 ./src/Loop/Eval/cmdline.o
+ .debug_macro   0x00000000      0x103 ./src/Loop/Eval/cmdline.o
+ .debug_macro   0x00000000       0x6a ./src/Loop/Eval/cmdline.o
+ .debug_macro   0x00000000      0x1df ./src/Loop/Eval/cmdline.o
+ .debug_macro   0x00000000       0x22 ./src/Loop/Eval/cmdline.o
+ .debug_macro   0x00000000       0x5e ./src/Loop/Eval/cmdline.o
+ .debug_macro   0x00000000       0x18 ./src/Loop/Eval/cmdline.o
+ .debug_macro   0x00000000       0x35 ./src/Loop/Eval/cmdline.o
+ .debug_macro   0x00000000       0x34 ./src/Loop/Eval/cmdline.o
+ .debug_macro   0x00000000      0x174 ./src/Loop/Eval/cmdline.o
+ .debug_macro   0x00000000       0x16 ./src/Loop/Eval/cmdline.o
+ .debug_macro   0x00000000       0x43 ./src/Loop/Eval/cmdline.o
+ .debug_macro   0x00000000       0x34 ./src/Loop/Eval/cmdline.o
+ .debug_macro   0x00000000       0x10 ./src/Loop/Eval/cmdline.o
+ .debug_macro   0x00000000       0x58 ./src/Loop/Eval/cmdline.o
+ .debug_macro   0x00000000      0x182 ./src/Loop/Eval/cmdline.o
+ .debug_macro   0x00000000      0x339 ./src/Loop/Eval/cmdline.o
+ .debug_macro   0x00000000       0x35 ./src/Loop/Eval/cmdline.o
+ .group         0x00000000        0xc ./src/Config/Temp/Temp.o
+ .group         0x00000000        0xc ./src/Config/Temp/Temp.o
+ .group         0x00000000        0xc ./src/Config/Temp/Temp.o
+ .group         0x00000000        0xc ./src/Config/Temp/Temp.o
+ .group         0x00000000        0xc ./src/Config/Temp/Temp.o
+ .group         0x00000000        0xc ./src/Config/Temp/Temp.o
+ .group         0x00000000        0xc ./src/Config/Temp/Temp.o
+ .group         0x00000000        0xc ./src/Config/Temp/Temp.o
+ .group         0x00000000        0xc ./src/Config/Temp/Temp.o
+ .group         0x00000000        0xc ./src/Config/Temp/Temp.o
+ .group         0x00000000        0xc ./src/Config/Temp/Temp.o
+ .group         0x00000000        0xc ./src/Config/Temp/Temp.o
+ .group         0x00000000        0xc ./src/Config/Temp/Temp.o
+ .group         0x00000000        0xc ./src/Config/Temp/Temp.o
+ .text          0x00000000        0x0 ./src/Config/Temp/Temp.o
+ .data          0x00000000        0x0 ./src/Config/Temp/Temp.o
+ .bss           0x00000000        0x0 ./src/Config/Temp/Temp.o
+ .debug_macro   0x00000000      0xaa8 ./src/Config/Temp/Temp.o
+ .debug_macro   0x00000000       0x22 ./src/Config/Temp/Temp.o
+ .debug_macro   0x00000000       0x22 ./src/Config/Temp/Temp.o
+ .debug_macro   0x00000000       0x8e ./src/Config/Temp/Temp.o
+ .debug_macro   0x00000000       0x51 ./src/Config/Temp/Temp.o
+ .debug_macro   0x00000000      0x103 ./src/Config/Temp/Temp.o
+ .debug_macro   0x00000000       0x6a ./src/Config/Temp/Temp.o
+ .debug_macro   0x00000000      0x1df ./src/Config/Temp/Temp.o
+ .debug_macro   0x00000000       0x67 ./src/Config/Temp/Temp.o
+ .debug_macro   0x00000000      0x25e ./src/Config/Temp/Temp.o
+ .debug_macro   0x00000000      0xa88 ./src/Config/Temp/Temp.o
+ .debug_macro   0x00000000      0x101 ./src/Config/Temp/Temp.o
+ .debug_macro   0x00000000      0x312 ./src/Config/Temp/Temp.o
+ .debug_macro   0x00000000       0x16 ./src/Config/Temp/Temp.o
+ .group         0x00000000        0xc ./src/Config/Core/Core.o
+ .group         0x00000000        0xc ./src/Config/Core/Core.o
+ .group         0x00000000        0xc ./src/Config/Core/Core.o
+ .group         0x00000000        0xc ./src/Config/Core/Core.o
+ .group         0x00000000        0xc ./src/Config/Core/Core.o
+ .group         0x00000000        0xc ./src/Config/Core/Core.o
+ .group         0x00000000        0xc ./src/Config/Core/Core.o
+ .group         0x00000000        0xc ./src/Config/Core/Core.o
+ .group         0x00000000        0xc ./src/Config/Core/Core.o
+ .group         0x00000000        0xc ./src/Config/Core/Core.o
+ .group         0x00000000        0xc ./src/Config/Core/Core.o
+ .group         0x00000000        0xc ./src/Config/Core/Core.o
+ .text          0x00000000        0x0 ./src/Config/Core/Core.o
+ .data          0x00000000        0x0 ./src/Config/Core/Core.o
+ .bss           0x00000000        0x0 ./src/Config/Core/Core.o
+ .debug_macro   0x00000000      0xaa8 ./src/Config/Core/Core.o
+ .debug_macro   0x00000000       0x22 ./src/Config/Core/Core.o
+ .debug_macro   0x00000000       0x22 ./src/Config/Core/Core.o
+ .debug_macro   0x00000000       0x8e ./src/Config/Core/Core.o
+ .debug_macro   0x00000000       0x51 ./src/Config/Core/Core.o
+ .debug_macro   0x00000000      0x103 ./src/Config/Core/Core.o
+ .debug_macro   0x00000000       0x6a ./src/Config/Core/Core.o
+ .debug_macro   0x00000000      0x1df ./src/Config/Core/Core.o
+ .debug_macro   0x00000000      0x25e ./src/Config/Core/Core.o
+ .debug_macro   0x00000000       0x67 ./src/Config/Core/Core.o
+ .debug_macro   0x00000000      0xa88 ./src/Config/Core/Core.o
+ .debug_macro   0x00000000      0x101 ./src/Config/Core/Core.o
+ .group         0x00000000        0xc ./src/Config/Comm/libs/uartstdio.o
+ .group         0x00000000        0xc ./src/Config/Comm/libs/uartstdio.o
+ .group         0x00000000        0xc ./src/Config/Comm/libs/uartstdio.o
+ .group         0x00000000        0xc ./src/Config/Comm/libs/uartstdio.o
+ .group         0x00000000        0xc ./src/Config/Comm/libs/uartstdio.o
+ .group         0x00000000        0xc ./src/Config/Comm/libs/uartstdio.o
+ .group         0x00000000        0xc ./src/Config/Comm/libs/uartstdio.o
+ .group         0x00000000        0xc ./src/Config/Comm/libs/uartstdio.o
+ .group         0x00000000        0xc ./src/Config/Comm/libs/uartstdio.o
+ .group         0x00000000        0xc ./src/Config/Comm/libs/uartstdio.o
+ .group         0x00000000        0xc ./src/Config/Comm/libs/uartstdio.o
+ .group         0x00000000        0xc ./src/Config/Comm/libs/uartstdio.o
+ .group         0x00000000        0xc ./src/Config/Comm/libs/uartstdio.o
+ .group         0x00000000        0xc ./src/Config/Comm/libs/uartstdio.o
+ .group         0x00000000        0xc ./src/Config/Comm/libs/uartstdio.o
+ .group         0x00000000        0xc ./src/Config/Comm/libs/uartstdio.o
+ .group         0x00000000        0xc ./src/Config/Comm/libs/uartstdio.o
+ .group         0x00000000        0xc ./src/Config/Comm/libs/uartstdio.o
+ .group         0x00000000        0xc ./src/Config/Comm/libs/uartstdio.o
+ .group         0x00000000        0xc ./src/Config/Comm/libs/uartstdio.o
+ .text          0x00000000        0x0 ./src/Config/Comm/libs/uartstdio.o
+ .data          0x00000000        0x0 ./src/Config/Comm/libs/uartstdio.o
+ .bss           0x00000000        0x0 ./src/Config/Comm/libs/uartstdio.o
+ .text.UARTgetc
+                0x00000000       0x2c ./src/Config/Comm/libs/uartstdio.o
+ .text.UARTRxBytesAvail
+                0x00000000       0x1c ./src/Config/Comm/libs/uartstdio.o
+ .text.UARTTxBytesFree
+                0x00000000       0x20 ./src/Config/Comm/libs/uartstdio.o
+ .text.UARTEchoSet
+                0x00000000       0x10 ./src/Config/Comm/libs/uartstdio.o
+ .debug_macro   0x00000000      0xaa8 ./src/Config/Comm/libs/uartstdio.o
+ .debug_macro   0x00000000       0x58 ./src/Config/Comm/libs/uartstdio.o
+ .debug_macro   0x00000000       0x22 ./src/Config/Comm/libs/uartstdio.o
+ .debug_macro   0x00000000       0x22 ./src/Config/Comm/libs/uartstdio.o
+ .debug_macro   0x00000000       0x8e ./src/Config/Comm/libs/uartstdio.o
+ .debug_macro   0x00000000       0x51 ./src/Config/Comm/libs/uartstdio.o
+ .debug_macro   0x00000000      0x103 ./src/Config/Comm/libs/uartstdio.o
+ .debug_macro   0x00000000       0x6a ./src/Config/Comm/libs/uartstdio.o
+ .debug_macro   0x00000000      0x1df ./src/Config/Comm/libs/uartstdio.o
+ .debug_macro   0x00000000       0x10 ./src/Config/Comm/libs/uartstdio.o
+ .debug_macro   0x00000000      0x25e ./src/Config/Comm/libs/uartstdio.o
+ .debug_macro   0x00000000       0x67 ./src/Config/Comm/libs/uartstdio.o
+ .debug_macro   0x00000000      0xa88 ./src/Config/Comm/libs/uartstdio.o
+ .group         0x00000000        0xc ./src/Config/Comm/Comm.o
+ .group         0x00000000        0xc ./src/Config/Comm/Comm.o
+ .group         0x00000000        0xc ./src/Config/Comm/Comm.o
+ .group         0x00000000        0xc ./src/Config/Comm/Comm.o
+ .group         0x00000000        0xc ./src/Config/Comm/Comm.o
+ .group         0x00000000        0xc ./src/Config/Comm/Comm.o
+ .group         0x00000000        0xc ./src/Config/Comm/Comm.o
+ .group         0x00000000        0xc ./src/Config/Comm/Comm.o
+ .group         0x00000000        0xc ./src/Config/Comm/Comm.o
+ .group         0x00000000        0xc ./src/Config/Comm/Comm.o
+ .group         0x00000000        0xc ./src/Config/Comm/Comm.o
+ .group         0x00000000        0xc ./src/Config/Comm/Comm.o
+ .group         0x00000000        0xc ./src/Config/Comm/Comm.o
+ .group         0x00000000        0xc ./src/Config/Comm/Comm.o
+ .group         0x00000000        0xc ./src/Config/Comm/Comm.o
+ .group         0x00000000        0xc ./src/Config/Comm/Comm.o
+ .group         0x00000000        0xc ./src/Config/Comm/Comm.o
+ .group         0x00000000        0xc ./src/Config/Comm/Comm.o
+ .text          0x00000000        0x0 ./src/Config/Comm/Comm.o
+ .data          0x00000000        0x0 ./src/Config/Comm/Comm.o
+ .bss           0x00000000        0x0 ./src/Config/Comm/Comm.o
+ .debug_macro   0x00000000      0xaa8 ./src/Config/Comm/Comm.o
+ .debug_macro   0x00000000       0x22 ./src/Config/Comm/Comm.o
+ .debug_macro   0x00000000       0x22 ./src/Config/Comm/Comm.o
+ .debug_macro   0x00000000       0x8e ./src/Config/Comm/Comm.o
+ .debug_macro   0x00000000       0x51 ./src/Config/Comm/Comm.o
+ .debug_macro   0x00000000      0x103 ./src/Config/Comm/Comm.o
+ .debug_macro   0x00000000       0x6a ./src/Config/Comm/Comm.o
+ .debug_macro   0x00000000      0x1df ./src/Config/Comm/Comm.o
+ .debug_macro   0x00000000      0x946 ./src/Config/Comm/Comm.o
+ .debug_macro   0x00000000      0x25e ./src/Config/Comm/Comm.o
+ .debug_macro   0x00000000       0x67 ./src/Config/Comm/Comm.o
+ .debug_macro   0x00000000      0x101 ./src/Config/Comm/Comm.o
+ .debug_macro   0x00000000       0x10 ./src/Config/Comm/Comm.o
+ .debug_macro   0x00000000      0xa88 ./src/Config/Comm/Comm.o
+ .debug_macro   0x00000000      0x17a ./src/Config/Comm/Comm.o
+ .debug_macro   0x00000000       0x58 ./src/Config/Comm/Comm.o
+ .debug_macro   0x00000000       0x10 ./src/Config/Comm/Comm.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .group         0x00000000        0xc ./src/REPL.o
+ .text          0x00000000        0x0 ./src/REPL.o
+ .data          0x00000000        0x0 ./src/REPL.o
+ .bss           0x00000000        0x0 ./src/REPL.o
+ .debug_macro   0x00000000      0xaa8 ./src/REPL.o
+ .debug_macro   0x00000000       0x22 ./src/REPL.o
+ .debug_macro   0x00000000       0x22 ./src/REPL.o
+ .debug_macro   0x00000000       0x8e ./src/REPL.o
+ .debug_macro   0x00000000       0x51 ./src/REPL.o
+ .debug_macro   0x00000000      0x103 ./src/REPL.o
+ .debug_macro   0x00000000       0x6a ./src/REPL.o
+ .debug_macro   0x00000000      0x1df ./src/REPL.o
+ .debug_macro   0x00000000       0x1c ./src/REPL.o
+ .debug_macro   0x00000000       0x10 ./src/REPL.o
+ .debug_macro   0x00000000       0x18 ./src/REPL.o
+ .debug_macro   0x00000000       0x5e ./src/REPL.o
+ .debug_macro   0x00000000       0x35 ./src/REPL.o
+ .debug_macro   0x00000000       0x34 ./src/REPL.o
+ .debug_macro   0x00000000       0x16 ./src/REPL.o
+ .debug_macro   0x00000000      0x10e ./src/REPL.o
+ .debug_macro   0x00000000       0x8d ./src/REPL.o
+ .debug_macro   0x00000000       0x16 ./src/REPL.o
+ .debug_macro   0x00000000       0x43 ./src/REPL.o
+ .debug_macro   0x00000000       0x34 ./src/REPL.o
+ .debug_macro   0x00000000       0x10 ./src/REPL.o
+ .debug_macro   0x00000000       0x58 ./src/REPL.o
+ .debug_macro   0x00000000      0x182 ./src/REPL.o
+ .debug_macro   0x00000000      0x339 ./src/REPL.o
+ .debug_macro   0x00000000       0x16 ./src/REPL.o
+ .debug_macro   0x00000000       0x29 ./src/REPL.o
+ .debug_macro   0x00000000       0x58 ./src/REPL.o
+ .debug_macro   0x00000000       0x10 ./src/REPL.o
+ .debug_macro   0x00000000       0x22 ./src/REPL.o
+ .debug_macro   0x00000000      0x25e ./src/REPL.o
+ .debug_macro   0x00000000       0x67 ./src/REPL.o
+ .debug_macro   0x00000000      0xa88 ./src/REPL.o
+ .debug_macro   0x00000000      0x101 ./src/REPL.o
+ .debug_macro   0x00000000      0x312 ./src/REPL.o
+ .debug_macro   0x00000000       0x16 ./src/REPL.o
+ .debug_macro   0x00000000       0x22 ./src/REPL.o
+ .debug_macro   0x00000000       0x1c ./src/REPL.o
+ .group         0x00000000        0xc ./.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .text          0x00000000        0x0 ./.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .data          0x00000000        0x0 ./.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .bss           0x00000000        0x0 ./.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .debug_info    0x00000000       0x21 ./.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .debug_abbrev  0x00000000       0x13 ./.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .debug_aranges
+                0x00000000       0x18 ./.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .debug_macro   0x00000000       0x11 ./.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .debug_macro   0x00000000      0xaa8 ./.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .debug_line    0x00000000       0x58 ./.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .debug_str     0x00000000     0x2e35 ./.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .comment       0x00000000       0x77 ./.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .ARM.attributes
+                0x00000000       0x39 ./.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .group         0x00000000        0xc ./main.o
+ .text          0x00000000        0x0 ./main.o
+ .data          0x00000000        0x0 ./main.o
+ .bss           0x00000000        0x0 ./main.o
+ .debug_macro   0x00000000      0xaa8 ./main.o
+ .debug_macro   0x00000000       0x22 ./main.o
+ .debug_macro   0x00000000       0x22 ./main.o
+ .debug_macro   0x00000000       0x8e ./main.o
+ .debug_macro   0x00000000       0x51 ./main.o
+ .debug_macro   0x00000000      0x103 ./main.o
+ .debug_macro   0x00000000       0x6a ./main.o
+ .debug_macro   0x00000000      0x1df ./main.o
+ .debug_macro   0x00000000      0x25e ./main.o
+ .debug_macro   0x00000000       0x67 ./main.o
+ .debug_macro   0x00000000      0xa88 ./main.o
+ .debug_macro   0x00000000      0x101 ./main.o
+ .debug_macro   0x00000000      0x946 ./main.o
+ .debug_macro   0x00000000       0x10 ./main.o
+ .debug_macro   0x00000000      0x3d7 ./main.o
+ .debug_macro   0x00000000      0x17a ./main.o
+ .debug_macro   0x00000000       0x58 ./main.o
+ .debug_macro   0x00000000       0x10 ./main.o
+ .debug_macro   0x00000000      0x312 ./main.o
+ .debug_macro   0x00000000       0x16 ./main.o
+ .debug_macro   0x00000000       0x1c ./main.o
+ .debug_macro   0x00000000       0x10 ./main.o
+ .debug_macro   0x00000000       0x18 ./main.o
+ .debug_macro   0x00000000       0x5e ./main.o
+ .debug_macro   0x00000000       0x35 ./main.o
+ .debug_macro   0x00000000       0x34 ./main.o
+ .debug_macro   0x00000000       0x16 ./main.o
+ .debug_macro   0x00000000      0x10e ./main.o
+ .debug_macro   0x00000000       0x8d ./main.o
+ .debug_macro   0x00000000       0x16 ./main.o
+ .debug_macro   0x00000000       0x43 ./main.o
+ .debug_macro   0x00000000       0x34 ./main.o
+ .debug_macro   0x00000000       0x10 ./main.o
+ .debug_macro   0x00000000       0x58 ./main.o
+ .debug_macro   0x00000000      0x182 ./main.o
+ .debug_macro   0x00000000      0x339 ./main.o
+ .debug_macro   0x00000000       0x16 ./main.o
+ .debug_macro   0x00000000       0x29 ./main.o
+ .debug_macro   0x00000000       0x22 ./main.o
+ .debug_macro   0x00000000       0x22 ./main.o
+ .debug_macro   0x00000000       0x1c ./main.o
+ .group         0x00000000        0xc ./startup_gcc.o
+ .group         0x00000000        0xc ./startup_gcc.o
+ .group         0x00000000        0xc ./startup_gcc.o
+ .group         0x00000000        0xc ./startup_gcc.o
+ .group         0x00000000        0xc ./startup_gcc.o
+ .group         0x00000000        0xc ./startup_gcc.o
+ .group         0x00000000        0xc ./startup_gcc.o
+ .group         0x00000000        0xc ./startup_gcc.o
+ .group         0x00000000        0xc ./startup_gcc.o
+ .text          0x00000000        0x0 ./startup_gcc.o
+ .data          0x00000000        0x0 ./startup_gcc.o
+ .bss           0x00000000        0x0 ./startup_gcc.o
+ .debug_macro   0x00000000      0xaa8 ./startup_gcc.o
+ .debug_macro   0x00000000       0x22 ./startup_gcc.o
+ .debug_macro   0x00000000       0x8e ./startup_gcc.o
+ .debug_macro   0x00000000       0x51 ./startup_gcc.o
+ .debug_macro   0x00000000      0x103 ./startup_gcc.o
+ .debug_macro   0x00000000       0x6a ./startup_gcc.o
+ .debug_macro   0x00000000      0x1df ./startup_gcc.o
+ .debug_macro   0x00000000       0x67 ./startup_gcc.o
+ .text          0x00000000        0x0 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .data          0x00000000        0x0 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .bss           0x00000000        0x0 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text._ADCIntNumberGet
+                0x00000000       0x54 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCIntRegister
+                0x00000000       0x1a C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCIntUnregister
+                0x00000000       0x16 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCIntDisable
+                0x00000000       0x10 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCIntEnable
+                0x00000000       0x10 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCSequenceOverflow
+                0x00000000        0xc C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCSequenceOverflowClear
+                0x00000000        0xa C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCSequenceUnderflow
+                0x00000000        0xc C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCSequenceUnderflowClear
+                0x00000000        0xa C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCSoftwareOversampleConfigure
+                0x00000000       0x28 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCSoftwareOversampleStepConfigure
+                0x00000000       0x8c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCSoftwareOversampleDataGet
+                0x00000000       0x48 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCHardwareOversampleConfigure
+                0x00000000       0x10 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCComparatorConfigure
+                0x00000000        0xa C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCComparatorRegionSet
+                0x00000000        0xe C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCComparatorReset
+                0x00000000       0x1e C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCComparatorIntDisable
+                0x00000000       0x12 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCComparatorIntEnable
+                0x00000000       0x10 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCComparatorIntStatus
+                0x00000000        0x4 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCComparatorIntClear
+                0x00000000        0x4 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCIntDisableEx
+                0x00000000        0xa C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCIntEnableEx
+                0x00000000        0x8 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCIntStatusEx
+                0x00000000       0x12 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCIntClearEx
+                0x00000000        0x4 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCReferenceSet
+                0x00000000        0xc C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCReferenceGet
+                0x00000000        0x8 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCPhaseDelaySet
+                0x00000000        0x4 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCPhaseDelayGet
+                0x00000000        0x4 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCSequenceDMAEnable
+                0x00000000       0x10 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCSequenceDMADisable
+                0x00000000       0x12 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCBusy  0x00000000        0x8 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCClockConfigSet
+                0x00000000       0x18 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text.ADCClockConfigGet
+                0x00000000       0x1e C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .bss.g_pui8OversampleFactor
+                0x00000000        0x6 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .text          0x00000000        0x0 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .data          0x00000000        0x0 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .bss           0x00000000        0x0 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text._GPIOIntNumberGet
+                0x00000000       0x48 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIODirModeGet
+                0x00000000       0x24 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOIntTypeSet
+                0x00000000       0x5a C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOIntTypeGet
+                0x00000000       0x4a C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPadConfigGet
+                0x00000000       0xc4 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOIntEnable
+                0x00000000        0xc C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOIntDisable
+                0x00000000        0xe C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOIntStatus
+                0x00000000        0xe C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOIntClear
+                0x00000000        0x6 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOIntRegister
+                0x00000000       0x1a C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOIntUnregister
+                0x00000000       0x16 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOIntRegisterPin
+                0x00000000       0x1e C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOIntUnregisterPin
+                0x00000000       0x1a C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinRead
+                0x00000000        0x6 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinWrite
+                0x00000000        0x6 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinTypeADC
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinTypeCAN
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinTypeComparator
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinTypeComparatorOutput
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinTypeDIVSCLK
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinTypeEPI
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinTypeEthernetLED
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinTypeEthernetMII
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinTypeGPIOInput
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinTypeGPIOOutput
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinTypeGPIOOutputOD
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinTypeHibernateRTCCLK
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinTypeI2C
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinTypeI2CSCL
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinTypeLCD
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinTypeOneWire
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinTypePWM
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinTypeQEI
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinTypeSSI
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinTypeTimer
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinTypeTrace
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinTypeUSBAnalog
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinTypeUSBDigital
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinTypeWakeHigh
+                0x00000000       0x1e C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinTypeWakeLow
+                0x00000000       0x1e C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOPinWakeStatus
+                0x00000000        0x6 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIODMATriggerEnable
+                0x00000000        0xc C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIODMATriggerDisable
+                0x00000000        0xe C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOADCTriggerEnable
+                0x00000000        0xc C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text.GPIOADCTriggerDisable
+                0x00000000        0xe C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .rodata.g_ppui32GPIOIntMapSnowflake
+                0x00000000       0xd8 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .rodata.g_ppui32GPIOIntMapBlizzard
+                0x00000000       0xc0 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .text          0x00000000        0x0 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .data          0x00000000        0x0 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .bss           0x00000000        0x0 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .text._IntDefaultHandler
+                0x00000000        0x2 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .text.IntMasterDisable
+                0x00000000        0xe C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .text.IntRegister
+                0x00000000       0x34 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .text.IntUnregister
+                0x00000000       0x14 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .text.IntPriorityGroupingSet
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .text.IntPriorityGroupingGet
+                0x00000000       0x24 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .text.IntPrioritySet
+                0x00000000       0x2c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .text.IntPriorityGet
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .text.IntEnable
+                0x00000000       0x60 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .text.IntDisable
+                0x00000000       0x60 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .text.IntIsEnabled
+                0x00000000       0x64 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .text.IntPendSet
+                0x00000000       0x50 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .text.IntPendClear
+                0x00000000       0x40 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .text.IntPriorityMaskSet
+                0x00000000        0x4 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .text.IntPriorityMaskGet
+                0x00000000        0x4 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .text.IntTrigger
+                0x00000000        0xc C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .rodata.g_pui32Priority
+                0x00000000       0x20 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .rodata.g_pui32Dii16Regs
+                0x00000000       0x14 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .rodata.g_pui32PendRegs
+                0x00000000       0x14 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ vtable         0x00000000      0x400 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .rodata.g_pui32Regs
+                0x00000000       0x9c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .rodata.g_pui32EnRegs
+                0x00000000       0x14 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .rodata.g_pui32UnpendRegs
+                0x00000000       0x14 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .text          0x00000000        0x0 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .data          0x00000000        0x0 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .bss           0x00000000        0x0 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text._SysCtlMemTimingGet
+                0x00000000       0x24 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlSRAMSizeGet
+                0x00000000       0x10 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlFlashSizeGet
+                0x00000000       0x3c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlFlashSectorSizeGet
+                0x00000000       0x38 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralPresent
+                0x00000000       0x26 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralReady
+                0x00000000       0x26 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralPowerOn
+                0x00000000       0x22 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralPowerOff
+                0x00000000       0x22 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralReset
+                0x00000000       0x3a C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralDisable
+                0x00000000       0x22 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralSleepEnable
+                0x00000000       0x22 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralSleepDisable
+                0x00000000       0x22 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralDeepSleepEnable
+                0x00000000       0x22 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralDeepSleepDisable
+                0x00000000       0x22 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralClockGating
+                0x00000000       0x48 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlIntRegister
+                0x00000000       0x14 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlIntUnregister
+                0x00000000       0x12 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlIntEnable
+                0x00000000       0x10 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlIntDisable
+                0x00000000       0x10 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlIntClear
+                0x00000000        0xc C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlIntStatus
+                0x00000000       0x14 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlLDOSleepSet
+                0x00000000        0xc C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlLDOSleepGet
+                0x00000000        0xc C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlLDODeepSleepSet
+                0x00000000        0xc C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlLDODeepSleepGet
+                0x00000000        0xc C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlSleepPowerSet
+                0x00000000        0xc C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlDeepSleepPowerSet
+                0x00000000        0xc C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlReset
+                0x00000000       0x10 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlSleep
+                0x00000000        0x4 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlDeepSleep
+                0x00000000       0x20 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlResetCauseGet
+                0x00000000        0xc C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlResetCauseClear
+                0x00000000       0x10 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlMOSCConfigSet
+                0x00000000        0xc C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlPIOSCCalibrate
+                0x00000000       0x48 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlResetBehaviorSet
+                0x00000000        0xc C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlResetBehaviorGet
+                0x00000000        0xc C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlClockFreqSet
+                0x00000000      0x248 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlDeepSleepClockSet
+                0x00000000        0xc C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlDeepSleepClockConfigSet
+                0x00000000       0x60 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlPWMClockSet
+                0x00000000       0x14 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlPWMClockGet
+                0x00000000       0x18 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlGPIOAHBEnable
+                0x00000000       0x18 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlGPIOAHBDisable
+                0x00000000       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlUSBPLLEnable
+                0x00000000       0x10 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlUSBPLLDisable
+                0x00000000       0x10 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlVoltageEventConfig
+                0x00000000        0xc C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlVoltageEventStatus
+                0x00000000        0xc C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlVoltageEventClear
+                0x00000000       0x10 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlVCOGet
+                0x00000000       0x78 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlNMIStatus
+                0x00000000        0xc C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlNMIClear
+                0x00000000       0x10 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlClockOutConfig
+                0x00000000       0x10 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text.SysCtlAltClkConfig
+                0x00000000        0xc C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .rodata.g_pppui32XTALtoVCO
+                0x00000000      0x1b0 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .rodata.g_pui32VCOFrequencies
+                0x00000000        0x8 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .rodata.g_sXTALtoMEMTIM
+                0x00000000       0x30 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .text          0x00000000        0x0 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(cpu.o)
+ .data          0x00000000        0x0 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(cpu.o)
+ .bss           0x00000000        0x0 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(cpu.o)
+ .text.CPUcpsid
+                0x00000000        0x8 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(cpu.o)
+ .text.CPUprimask
+                0x00000000        0x6 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(cpu.o)
+ .text.CPUwfi   0x00000000        0x4 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(cpu.o)
+ .text.CPUbasepriSet
+                0x00000000        0x6 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(cpu.o)
+ .text.CPUbasepriGet
+                0x00000000        0x6 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(cpu.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-strcmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-strcmp.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00040000         xr
+SRAM             0x20000000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/Loop/Read/Read.o
+LOAD ./src/Loop/Print/Print.o
+LOAD ./src/Loop/Print/Screens.o
+LOAD ./src/Loop/Eval/Commands.o
+LOAD ./src/Loop/Eval/Evaluate.o
+LOAD ./src/Loop/Eval/cmdline.o
+LOAD ./src/Config/Temp/Temp.o
+LOAD ./src/Config/Core/Core.o
+LOAD ./src/Config/Comm/libs/uartstdio.o
+LOAD ./src/Config/Comm/Comm.o
+LOAD ./src/REPL.o
+LOAD ./.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+LOAD ./main.o
+LOAD ./startup_gcc.o
+LOAD C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon_nano.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon_nano.a
+END GROUP
+                0x00001000                _stack_size = 0x1000
+
+.text           0x00000000     0x14f0
+                0x00000000                _text = .
+ *(.isr_vector)
+ .isr_vector    0x00000000      0x26c ./startup_gcc.o
+                0x00000000                g_pfnVectors
+ *(.text .text* .gnu.linkonce.t.*)
+ .text.g_cInput_Read
+                0x0000026c        0x8 ./src/Loop/Read/Read.o
+                0x0000026c                g_cInput_Read
+ .text.LoopLib_Read
+                0x00000274       0x1c ./src/Loop/Read/Read.o
+                0x00000274                LoopLib_Read
+ .text.LoopLib_Print
+                0x00000290       0x2c ./src/Loop/Print/Print.o
+                0x00000290                LoopLib_Print
+ .text.ClearScreen_Print
+                0x000002bc       0x1c ./src/Loop/Print/Screens.o
+                0x000002bc                ClearScreen_Print
+ .text.FirstScreen_Print
+                0x000002d8       0x30 ./src/Loop/Print/Screens.o
+                0x000002d8                FirstScreen_Print
+ .text.WelcomeScreen_Print
+                0x00000308        0xe ./src/Loop/Print/Screens.o
+                0x00000308                WelcomeScreen_Print
+ *fill*         0x00000316        0x2 
+ .text.BadCmd_Print
+                0x00000318        0xc ./src/Loop/Print/Screens.o
+                0x00000318                BadCmd_Print
+ .text.TooManyArgs_Print
+                0x00000324        0xc ./src/Loop/Print/Screens.o
+                0x00000324                TooManyArgs_Print
+ .text.Help_Print
+                0x00000330       0x38 ./src/Loop/Print/Screens.o
+                0x00000330                Help_Print
+ .text.CoreClock_Screen
+                0x00000368       0x34 ./src/Loop/Print/Screens.o
+                0x00000368                CoreClock_Screen
+ .text.CoreTemp_Screen
+                0x0000039c       0x58 ./src/Loop/Print/Screens.o
+                0x0000039c                CoreTemp_Screen
+ .text.i_CMD_help
+                0x000003f4        0x4 ./src/Loop/Eval/Commands.o
+                0x000003f4                i_CMD_help
+ .text.i_CMD_clearscreen
+                0x000003f8        0x4 ./src/Loop/Eval/Commands.o
+                0x000003f8                i_CMD_clearscreen
+ .text.i_CMD_coreclock
+                0x000003fc        0x4 ./src/Loop/Eval/Commands.o
+                0x000003fc                i_CMD_coreclock
+ .text.i_CMD_temp
+                0x00000400        0xa ./src/Loop/Eval/Commands.o
+                0x00000400                i_CMD_temp
+ .text.i32_LoopLib_Evaluate
+                0x0000040a        0x4 ./src/Loop/Eval/Evaluate.o
+                0x0000040a                i32_LoopLib_Evaluate
+ *fill*         0x0000040e        0x2 
+ .text.CmdLineProcess
+                0x00000410       0x68 ./src/Loop/Eval/cmdline.o
+                0x00000410                CmdLineProcess
+ .text.ConfigLib_Temp_ADC0Set
+                0x00000478       0x48 ./src/Config/Temp/Temp.o
+                0x00000478                ConfigLib_Temp_ADC0Set
+ .text.ConfigLib_Temp_Measure
+                0x000004c0       0x94 ./src/Config/Temp/Temp.o
+                0x000004c0                ConfigLib_Temp_Measure
+ .text.ui32_TempCelsius_IntegerPart_Read
+                0x00000554        0xc ./src/Config/Temp/Temp.o
+                0x00000554                ui32_TempCelsius_IntegerPart_Read
+ .text.ui32_TempCelsius_DecimalPart_Read
+                0x00000560        0xc ./src/Config/Temp/Temp.o
+                0x00000560                ui32_TempCelsius_DecimalPart_Read
+ .text.ConfigLib_CoreClock_Set80MHz
+                0x0000056c        0xc ./src/Config/Core/Core.o
+                0x0000056c                ConfigLib_CoreClock_Set80MHz
+ .text.ui32_ConfigLib_CoreClock_Get
+                0x00000578        0x4 ./src/Config/Core/Core.o
+                0x00000578                ui32_ConfigLib_CoreClock_Get
+ .text.UARTPrimeTransmit
+                0x0000057c       0x90 ./src/Config/Comm/libs/uartstdio.o
+ .text.UARTFlushRx.part.1
+                0x0000060c        0xc ./src/Config/Comm/libs/uartstdio.o
+ .text.UARTwrite
+                0x00000618       0x94 ./src/Config/Comm/libs/uartstdio.o
+                0x00000618                UARTwrite
+ .text.UARTgets
+                0x000006ac       0x58 ./src/Config/Comm/libs/uartstdio.o
+                0x000006ac                UARTgets
+ .text.UARTvprintf
+                0x00000704      0x1a8 ./src/Config/Comm/libs/uartstdio.o
+                0x00000704                UARTvprintf
+ .text.UARTprintf
+                0x000008ac       0x1a ./src/Config/Comm/libs/uartstdio.o
+                0x000008ac                UARTprintf
+ *fill*         0x000008c6        0x2 
+ .text.UARTPeek
+                0x000008c8       0x40 ./src/Config/Comm/libs/uartstdio.o
+                0x000008c8                UARTPeek
+ .text.UARTFlushRx
+                0x00000908       0x2c ./src/Config/Comm/libs/uartstdio.o
+                0x00000908                UARTFlushRx
+ .text.UARTFlushTx
+                0x00000934       0x38 ./src/Config/Comm/libs/uartstdio.o
+                0x00000934                UARTFlushTx
+ .text.UARTStdioConfig
+                0x0000096c       0xb0 ./src/Config/Comm/libs/uartstdio.o
+                0x0000096c                UARTStdioConfig
+ .text.UARTStdioIntHandler
+                0x00000a1c      0x12c ./src/Config/Comm/libs/uartstdio.o
+                0x00000a1c                UARTStdioIntHandler
+ .text.ConfigLib_Comm_UART0Config
+                0x00000b48       0x38 ./src/Config/Comm/Comm.o
+                0x00000b48                ConfigLib_Comm_UART0Config
+ .text.REPL_MainLoop
+                0x00000b80       0x20 ./src/REPL.o
+                0x00000b80                REPL_MainLoop
+ .text.startup.main
+                0x00000ba0       0x1e ./main.o
+                0x00000ba0                main
+ .text.NmiSR    0x00000bbe        0x2 ./startup_gcc.o
+ .text.FaultISR
+                0x00000bc0        0x2 ./startup_gcc.o
+ .text.IntDefaultHandler
+                0x00000bc2        0x2 ./startup_gcc.o
+ .text.ResetISR
+                0x00000bc4       0x94 ./startup_gcc.o
+                0x00000bc4                ResetISR
+ .text.ADCIntStatus
+                0x00000c58       0x34 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+                0x00000c58                ADCIntStatus
+ .text.ADCIntClear
+                0x00000c8c        0xa C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+                0x00000c8c                ADCIntClear
+ .text.ADCSequenceEnable
+                0x00000c96        0xe C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+                0x00000c96                ADCSequenceEnable
+ .text.ADCSequenceDisable
+                0x00000ca4       0x10 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+                0x00000ca4                ADCSequenceDisable
+ .text.ADCSequenceConfigure
+                0x00000cb4       0x54 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+                0x00000cb4                ADCSequenceConfigure
+ .text.ADCSequenceStepConfigure
+                0x00000d08       0x84 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+                0x00000d08                ADCSequenceStepConfigure
+ .text.ADCSequenceDataGet
+                0x00000d8c       0x1e C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+                0x00000d8c                ADCSequenceDataGet
+ .text.ADCProcessorTrigger
+                0x00000daa       0x18 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+                0x00000daa                ADCProcessorTrigger
+ .text.GPIODirModeSet
+                0x00000dc2       0x2e C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+                0x00000dc2                GPIODirModeSet
+ .text.GPIOPadConfigSet
+                0x00000df0      0x130 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+                0x00000df0                GPIOPadConfigSet
+ .text.GPIOPinTypeUART
+                0x00000f20       0x1c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+                0x00000f20                GPIOPinTypeUART
+ .text.GPIOPinConfigure
+                0x00000f3c       0x4c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+                0x00000f3c                GPIOPinConfigure
+ .text.IntMasterEnable
+                0x00000f88        0xe C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+                0x00000f88                IntMasterEnable
+ .text.SysCtlPeripheralEnable
+                0x00000f96       0x22 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+                0x00000f96                SysCtlPeripheralEnable
+ .text.SysCtlDelay
+                0x00000fb8        0x8 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+                0x00000fb8                SysCtlDelay
+ .text.SysCtlClockSet
+                0x00000fc0      0x11c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+                0x00000fc0                SysCtlClockSet
+ .text.SysCtlClockGet
+                0x000010dc      0x12c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+                0x000010dc                SysCtlClockGet
+ .text.CPUcpsie
+                0x00001208        0x8 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(cpu.o)
+                0x00001208                CPUcpsie
+ .text          0x00001210       0x14 c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-strcmp.o)
+                0x00001210                strcmp
+ *(.rodata .rodata* .gnu.linkonce.r.*)
+ .rodata.BadCmd_Print.str1.1
+                0x00001224        0xe ./src/Loop/Print/Screens.o
+ .rodata.ClearScreen_Print.str1.1
+                0x00001232        0xc ./src/Loop/Print/Screens.o
+ .rodata.CoreClock_Screen.str1.1
+                0x0000123e       0x18 ./src/Loop/Print/Screens.o
+ .rodata.CoreTemp_Screen.str1.1
+                0x00001256       0x1a ./src/Loop/Print/Screens.o
+                                 0x1c (size before relaxing)
+ .rodata.FirstScreen_Print.str1.1
+                0x00001270       0x5f ./src/Loop/Print/Screens.o
+                                 0x64 (size before relaxing)
+ .rodata.Help_Print.str1.1
+                0x000012cf       0x33 ./src/Loop/Print/Screens.o
+ .rodata.TooManyArgs_Print.str1.1
+                0x00001302       0x2b ./src/Loop/Print/Screens.o
+ .rodata.str1.1
+                0x0000132d       0x83 ./src/Loop/Eval/Commands.o
+ .rodata.UARTStdioIntHandler.str1.1
+                0x000013b0        0x4 ./src/Config/Comm/libs/uartstdio.o
+                                  0x6 (size before relaxing)
+ .rodata.UARTvprintf.str1.1
+                0x000013b4       0x17 ./src/Config/Comm/libs/uartstdio.o
+                                 0x19 (size before relaxing)
+ *fill*         0x000013cb        0x1 
+ .rodata.g_ui32UARTBase
+                0x000013cc        0xc ./src/Config/Comm/libs/uartstdio.o
+ .rodata.g_ui32UARTInt
+                0x000013d8        0xc ./src/Config/Comm/libs/uartstdio.o
+ .rodata.g_ui32UARTPeriph
+                0x000013e4        0xc ./src/Config/Comm/libs/uartstdio.o
+ .rodata.REPL_MainLoop.str1.1
+                0x000013f0        0x3 ./src/REPL.o
+ *fill*         0x000013f3        0x1 
+ .rodata.g_pui32GPIOBaseAddrs
+                0x000013f4       0x90 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .rodata.g_pui32Xtals
+                0x00001484       0x6c C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+                0x000014f0                . = ALIGN (0x4)
+ *(.init)
+                0x000014f0                . = ALIGN (0x4)
+                0x000014f0                __preinit_array_start = .
+ *(SORT_BY_NAME(.preinit_array*))
+ *(.preinit_array)
+                0x000014f0                __preinit_array_end = .
+                0x000014f0                . = ALIGN (0x4)
+                0x000014f0                __init_array_start = .
+ *(SORT_BY_NAME(.init_array*))
+ *(.init_array)
+                0x000014f0                __init_array_end = .
+                0x000014f0                . = ALIGN (0x4)
+ *(.fini)
+                0x000014f0                . = ALIGN (0x4)
+                0x000014f0                __fini_array_start = .
+ *(.fini_array)
+ *(SORT_BY_NAME(.fini_array*))
+                0x000014f0                __fini_array_end = .
+                0x000014f0                . = ALIGN (0x4)
+                0x000014f0                _etext = .
+
+.glue_7         0x000014f0        0x0
+ .glue_7        0x000014f0        0x0 linker stubs
+
+.glue_7t        0x000014f0        0x0
+ .glue_7t       0x000014f0        0x0 linker stubs
+
+.vfp11_veneer   0x000014f0        0x0
+ .vfp11_veneer  0x000014f0        0x0 linker stubs
+
+.v4_bx          0x000014f0        0x0
+ .v4_bx         0x000014f0        0x0 linker stubs
+
+.iplt           0x000014f0        0x0
+ .iplt          0x000014f0        0x0 ./src/Loop/Read/Read.o
+
+.rel.dyn        0x000014f0        0x0
+ .rel.iplt      0x000014f0        0x0 ./src/Loop/Read/Read.o
+
+.data           0x20000000       0x3c load address 0x000014f0
+                0x20000000                _data = .
+ *(vtable)
+ *(.data .data* .gnu.linkonce.d.*)
+ .data.g_psCmdTable
+                0x20000000       0x3c ./src/Loop/Eval/Commands.o
+                0x20000000                g_psCmdTable
+ *(.fastcode)
+                0x2000003c                _edata = .
+
+.igot.plt       0x2000003c        0x0 load address 0x0000152c
+ .igot.plt      0x2000003c        0x0 ./src/Loop/Read/Read.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x2000003c                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x2000003c                __exidx_end = .
+
+.bss            0x2000003c     0x214c
+                0x2000003c                _bss = .
+ *(.bss*)
+ .bss.g_cInput  0x2000003c       0x80 ./src/Loop/Read/Read.o
+ .bss.g_ppcArgv
+                0x200000bc       0x24 ./src/Loop/Eval/cmdline.o
+ .bss.ui32_temp_decpart
+                0x200000e0        0x4 ./src/Config/Temp/Temp.o
+ .bss.ui32_temp_intpart
+                0x200000e4        0x4 ./src/Config/Temp/Temp.o
+ .bss.bLastWasCR.6060
+                0x200000e8        0x1 ./src/Config/Comm/libs/uartstdio.o
+ .bss.g_bDisableEcho
+                0x200000e9        0x1 ./src/Config/Comm/libs/uartstdio.o
+ .bss.g_pcUARTRxBuffer
+                0x200000ea       0x80 ./src/Config/Comm/libs/uartstdio.o
+ .bss.g_pcUARTTxBuffer
+                0x2000016a     0x2000 ./src/Config/Comm/libs/uartstdio.o
+ *fill*         0x2000216a        0x2 
+ .bss.g_ui32Base
+                0x2000216c        0x4 ./src/Config/Comm/libs/uartstdio.o
+ .bss.g_ui32PortNum
+                0x20002170        0x4 ./src/Config/Comm/libs/uartstdio.o
+ .bss.g_ui32UARTRxReadIndex
+                0x20002174        0x4 ./src/Config/Comm/libs/uartstdio.o
+ .bss.g_ui32UARTRxWriteIndex
+                0x20002178        0x4 ./src/Config/Comm/libs/uartstdio.o
+ .bss.g_ui32UARTTxReadIndex
+                0x2000217c        0x4 ./src/Config/Comm/libs/uartstdio.o
+ .bss.g_ui32UARTTxWriteIndex
+                0x20002180        0x4 ./src/Config/Comm/libs/uartstdio.o
+ *(COMMON)
+ COMMON         0x20002184        0x4 ./src/Config/Temp/Temp.o
+                0x20002184                ui32_ADC0_vector
+                0x20002188                _ebss = .
+                [!provide]                PROVIDE (end = .)
+                0x20002188                _heap_bottom = ALIGN (0x8)
+                0x20007000                _heap_top = ((ORIGIN (SRAM) + LENGTH (SRAM)) - _stack_size)
+                0x20002188                _stack_bottom = ALIGN (0x8)
+                0x20008000                _stack_top = (ORIGIN (SRAM) + LENGTH (SRAM))
+OUTPUT(Tiva_REPL.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x62ec
+ .debug_info    0x00000000      0xa38 ./src/Loop/Read/Read.o
+ .debug_info    0x00000a38      0xa66 ./src/Loop/Print/Print.o
+ .debug_info    0x0000149e      0xce3 ./src/Loop/Print/Screens.o
+ .debug_info    0x00002181      0xac2 ./src/Loop/Eval/Commands.o
+ .debug_info    0x00002c43      0x179 ./src/Loop/Eval/Evaluate.o
+ .debug_info    0x00002dbc      0xa82 ./src/Loop/Eval/cmdline.o
+ .debug_info    0x0000383e      0x2ff ./src/Config/Temp/Temp.o
+ .debug_info    0x00003b3d       0xf1 ./src/Config/Core/Core.o
+ .debug_info    0x00003c2e      0xee7 ./src/Config/Comm/libs/uartstdio.o
+ .debug_info    0x00004b15      0x141 ./src/Config/Comm/Comm.o
+ .debug_info    0x00004c56      0xa5c ./src/REPL.o
+ .debug_info    0x000056b2      0xa3e ./main.o
+ .debug_info    0x000060f0      0x1fc ./startup_gcc.o
+
+.debug_abbrev   0x00000000     0x16cb
+ .debug_abbrev  0x00000000      0x240 ./src/Loop/Read/Read.o
+ .debug_abbrev  0x00000240      0x20e ./src/Loop/Print/Print.o
+ .debug_abbrev  0x0000044e      0x25b ./src/Loop/Print/Screens.o
+ .debug_abbrev  0x000006a9      0x22d ./src/Loop/Eval/Commands.o
+ .debug_abbrev  0x000008d6      0x10f ./src/Loop/Eval/Evaluate.o
+ .debug_abbrev  0x000009e5      0x24c ./src/Loop/Eval/cmdline.o
+ .debug_abbrev  0x00000c31       0xf4 ./src/Config/Temp/Temp.o
+ .debug_abbrev  0x00000d25       0xb1 ./src/Config/Core/Core.o
+ .debug_abbrev  0x00000dd6      0x32c ./src/Config/Comm/libs/uartstdio.o
+ .debug_abbrev  0x00001102       0xa1 ./src/Config/Comm/Comm.o
+ .debug_abbrev  0x000011a3      0x224 ./src/REPL.o
+ .debug_abbrev  0x000013c7      0x1f7 ./main.o
+ .debug_abbrev  0x000015be      0x10d ./startup_gcc.o
+
+.debug_aranges  0x00000000      0x2a0
+ .debug_aranges
+                0x00000000       0x28 ./src/Loop/Read/Read.o
+ .debug_aranges
+                0x00000028       0x20 ./src/Loop/Print/Print.o
+ .debug_aranges
+                0x00000048       0x58 ./src/Loop/Print/Screens.o
+ .debug_aranges
+                0x000000a0       0x38 ./src/Loop/Eval/Commands.o
+ .debug_aranges
+                0x000000d8       0x20 ./src/Loop/Eval/Evaluate.o
+ .debug_aranges
+                0x000000f8       0x20 ./src/Loop/Eval/cmdline.o
+ .debug_aranges
+                0x00000118       0x38 ./src/Config/Temp/Temp.o
+ .debug_aranges
+                0x00000150       0x28 ./src/Config/Core/Core.o
+ .debug_aranges
+                0x00000178       0x90 ./src/Config/Comm/libs/uartstdio.o
+ .debug_aranges
+                0x00000208       0x20 ./src/Config/Comm/Comm.o
+ .debug_aranges
+                0x00000228       0x20 ./src/REPL.o
+ .debug_aranges
+                0x00000248       0x20 ./main.o
+ .debug_aranges
+                0x00000268       0x38 ./startup_gcc.o
+
+.debug_ranges   0x00000000      0x250
+ .debug_ranges  0x00000000       0x18 ./src/Loop/Read/Read.o
+ .debug_ranges  0x00000018       0x10 ./src/Loop/Print/Print.o
+ .debug_ranges  0x00000028       0x48 ./src/Loop/Print/Screens.o
+ .debug_ranges  0x00000070       0x28 ./src/Loop/Eval/Commands.o
+ .debug_ranges  0x00000098       0x10 ./src/Loop/Eval/Evaluate.o
+ .debug_ranges  0x000000a8       0x10 ./src/Loop/Eval/cmdline.o
+ .debug_ranges  0x000000b8       0x28 ./src/Config/Temp/Temp.o
+ .debug_ranges  0x000000e0       0x18 ./src/Config/Core/Core.o
+ .debug_ranges  0x000000f8      0x100 ./src/Config/Comm/libs/uartstdio.o
+ .debug_ranges  0x000001f8       0x10 ./src/Config/Comm/Comm.o
+ .debug_ranges  0x00000208       0x10 ./src/REPL.o
+ .debug_ranges  0x00000218       0x10 ./main.o
+ .debug_ranges  0x00000228       0x28 ./startup_gcc.o
+
+.debug_macro    0x00000000     0x8e7f
+ .debug_macro   0x00000000      0x1b9 ./src/Loop/Read/Read.o
+ .debug_macro   0x000001b9      0xaa8 ./src/Loop/Read/Read.o
+ .debug_macro   0x00000c61       0x10 ./src/Loop/Read/Read.o
+ .debug_macro   0x00000c71       0x22 ./src/Loop/Read/Read.o
+ .debug_macro   0x00000c93       0x8e ./src/Loop/Read/Read.o
+ .debug_macro   0x00000d21       0x51 ./src/Loop/Read/Read.o
+ .debug_macro   0x00000d72      0x103 ./src/Loop/Read/Read.o
+ .debug_macro   0x00000e75       0x6a ./src/Loop/Read/Read.o
+ .debug_macro   0x00000edf      0x1df ./src/Loop/Read/Read.o
+ .debug_macro   0x000010be       0x22 ./src/Loop/Read/Read.o
+ .debug_macro   0x000010e0       0x18 ./src/Loop/Read/Read.o
+ .debug_macro   0x000010f8       0x5e ./src/Loop/Read/Read.o
+ .debug_macro   0x00001156       0x35 ./src/Loop/Read/Read.o
+ .debug_macro   0x0000118b       0x34 ./src/Loop/Read/Read.o
+ .debug_macro   0x000011bf       0x16 ./src/Loop/Read/Read.o
+ .debug_macro   0x000011d5      0x10e ./src/Loop/Read/Read.o
+ .debug_macro   0x000012e3       0x8d ./src/Loop/Read/Read.o
+ .debug_macro   0x00001370       0x16 ./src/Loop/Read/Read.o
+ .debug_macro   0x00001386       0x43 ./src/Loop/Read/Read.o
+ .debug_macro   0x000013c9       0x34 ./src/Loop/Read/Read.o
+ .debug_macro   0x000013fd       0x10 ./src/Loop/Read/Read.o
+ .debug_macro   0x0000140d       0x58 ./src/Loop/Read/Read.o
+ .debug_macro   0x00001465      0x182 ./src/Loop/Read/Read.o
+ .debug_macro   0x000015e7      0x339 ./src/Loop/Read/Read.o
+ .debug_macro   0x00001920       0x16 ./src/Loop/Read/Read.o
+ .debug_macro   0x00001936       0x29 ./src/Loop/Read/Read.o
+ .debug_macro   0x0000195f       0x58 ./src/Loop/Read/Read.o
+ .debug_macro   0x000019b7       0x10 ./src/Loop/Read/Read.o
+ .debug_macro   0x000019c7       0x22 ./src/Loop/Read/Read.o
+ .debug_macro   0x000019e9      0x25e ./src/Loop/Read/Read.o
+ .debug_macro   0x00001c47       0x67 ./src/Loop/Read/Read.o
+ .debug_macro   0x00001cae      0xa88 ./src/Loop/Read/Read.o
+ .debug_macro   0x00002736      0x101 ./src/Loop/Read/Read.o
+ .debug_macro   0x00002837      0x312 ./src/Loop/Read/Read.o
+ .debug_macro   0x00002b49       0x16 ./src/Loop/Read/Read.o
+ .debug_macro   0x00002b5f       0x22 ./src/Loop/Read/Read.o
+ .debug_macro   0x00002b81      0x203 ./src/Loop/Print/Print.o
+ .debug_macro   0x00002d84       0x1c ./src/Loop/Print/Print.o
+ .debug_macro   0x00002da0       0x1c ./src/Loop/Print/Print.o
+ .debug_macro   0x00002dbc      0x229 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00002fe5       0x58 ./src/Loop/Print/Screens.o
+ .debug_macro   0x0000303d       0x94 ./src/Loop/Print/Screens.o
+ .debug_macro   0x000030d1       0x57 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00003128      0x174 ./src/Loop/Print/Screens.o
+ .debug_macro   0x0000329c       0x10 ./src/Loop/Print/Screens.o
+ .debug_macro   0x000032ac       0x35 ./src/Loop/Print/Screens.o
+ .debug_macro   0x000032e1       0x10 ./src/Loop/Print/Screens.o
+ .debug_macro   0x000032f1       0x10 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00003301       0x10 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00003311       0x1c ./src/Loop/Print/Screens.o
+ .debug_macro   0x0000332d       0x52 ./src/Loop/Print/Screens.o
+ .debug_macro   0x0000337f       0x40 ./src/Loop/Print/Screens.o
+ .debug_macro   0x000033bf       0x10 ./src/Loop/Print/Screens.o
+ .debug_macro   0x000033cf       0x40 ./src/Loop/Print/Screens.o
+ .debug_macro   0x0000340f       0xd5 ./src/Loop/Print/Screens.o
+ .debug_macro   0x000034e4       0x1c ./src/Loop/Print/Screens.o
+ .debug_macro   0x00003500       0x3d ./src/Loop/Print/Screens.o
+ .debug_macro   0x0000353d       0x35 ./src/Loop/Print/Screens.o
+ .debug_macro   0x00003572      0x20f ./src/Loop/Eval/Commands.o
+ .debug_macro   0x00003781       0x97 ./src/Loop/Eval/Evaluate.o
+ .debug_macro   0x00003818      0x13a ./src/Loop/Eval/cmdline.o
+ .debug_macro   0x00003952       0x10 ./src/Loop/Eval/cmdline.o
+ .debug_macro   0x00003962       0xa8 ./src/Config/Temp/Temp.o
+ .debug_macro   0x00003a0a       0x9a ./src/Config/Core/Core.o
+ .debug_macro   0x00003aa4      0x11a ./src/Config/Comm/libs/uartstdio.o
+ .debug_macro   0x00003bbe      0x946 ./src/Config/Comm/libs/uartstdio.o
+ .debug_macro   0x00004504      0x42a ./src/Config/Comm/libs/uartstdio.o
+ .debug_macro   0x0000492e       0x10 ./src/Config/Comm/libs/uartstdio.o
+ .debug_macro   0x0000493e       0x10 ./src/Config/Comm/libs/uartstdio.o
+ .debug_macro   0x0000494e      0xefe ./src/Config/Comm/libs/uartstdio.o
+ .debug_macro   0x0000584c     0x1815 ./src/Config/Comm/libs/uartstdio.o
+ .debug_macro   0x00007061      0x17a ./src/Config/Comm/libs/uartstdio.o
+ .debug_macro   0x000071db       0xd6 ./src/Config/Comm/Comm.o
+ .debug_macro   0x000072b1      0x3d7 ./src/Config/Comm/Comm.o
+ .debug_macro   0x00007688      0x203 ./src/REPL.o
+ .debug_macro   0x0000788b      0x23d ./main.o
+ .debug_macro   0x00007ac8       0x75 ./startup_gcc.o
+ .debug_macro   0x00007b3d     0x1342 ./startup_gcc.o
+
+.debug_line     0x00000000     0x4407
+ .debug_line    0x00000000      0x4e5 ./src/Loop/Read/Read.o
+ .debug_line    0x000004e5      0x615 ./src/Loop/Print/Print.o
+ .debug_line    0x00000afa      0x5fb ./src/Loop/Print/Screens.o
+ .debug_line    0x000010f5      0x6c1 ./src/Loop/Eval/Commands.o
+ .debug_line    0x000017b6      0x298 ./src/Loop/Eval/Evaluate.o
+ .debug_line    0x00001a4e      0x3b3 ./src/Loop/Eval/cmdline.o
+ .debug_line    0x00001e01      0x38b ./src/Config/Temp/Temp.o
+ .debug_line    0x0000218c      0x2d9 ./src/Config/Core/Core.o
+ .debug_line    0x00002465      0xce1 ./src/Config/Comm/libs/uartstdio.o
+ .debug_line    0x00003146      0x33a ./src/Config/Comm/Comm.o
+ .debug_line    0x00003480      0x5c0 ./src/REPL.o
+ .debug_line    0x00003a40      0x651 ./main.o
+ .debug_line    0x00004091      0x376 ./startup_gcc.o
+
+.debug_str      0x00000000    0x2c220
+ .debug_str     0x00000000     0xbcbd ./src/Loop/Read/Read.o
+                               0xbf12 (size before relaxing)
+ .debug_str     0x0000bcbd      0x14d ./src/Loop/Print/Print.o
+                               0xc019 (size before relaxing)
+ .debug_str     0x0000be0a      0xd66 ./src/Loop/Print/Screens.o
+                               0xcb95 (size before relaxing)
+ .debug_str     0x0000cb70       0x75 ./src/Loop/Eval/Commands.o
+                               0xbfe9 (size before relaxing)
+ .debug_str     0x0000cbe5       0x52 ./src/Loop/Eval/Evaluate.o
+                               0x4000 (size before relaxing)
+ .debug_str     0x0000cc37       0x92 ./src/Loop/Eval/cmdline.o
+                               0x6d7c (size before relaxing)
+ .debug_str     0x0000ccc9       0x85 ./src/Config/Temp/Temp.o
+                               0x8d4a (size before relaxing)
+ .debug_str     0x0000cd4e       0x37 ./src/Config/Core/Core.o
+                               0x7f09 (size before relaxing)
+ .debug_str     0x0000cd85    0x1971e ./src/Config/Comm/libs/uartstdio.o
+                              0x212ea (size before relaxing)
+ .debug_str     0x000264a3      0xeec ./src/Config/Comm/Comm.o
+                               0xc287 (size before relaxing)
+ .debug_str     0x0002738f       0x1c ./src/REPL.o
+                               0xbffd (size before relaxing)
+ .debug_str     0x000273ab        0xf ./main.o
+                              0x1022a (size before relaxing)
+ .debug_str     0x000273ba     0x4e66 ./startup_gcc.o
+                               0x9146 (size before relaxing)
+
+.comment        0x00000000       0xe6
+ .comment       0x00000000       0x76 ./src/Loop/Read/Read.o
+                                 0x77 (size before relaxing)
+ .comment       0x00000076       0x77 ./src/Loop/Print/Print.o
+ .comment       0x00000076       0x77 ./src/Loop/Print/Screens.o
+ .comment       0x00000076       0x77 ./src/Loop/Eval/Commands.o
+ .comment       0x00000076       0x77 ./src/Loop/Eval/Evaluate.o
+ .comment       0x00000076       0x77 ./src/Loop/Eval/cmdline.o
+ .comment       0x00000076       0x77 ./src/Config/Temp/Temp.o
+ .comment       0x00000076       0x77 ./src/Config/Core/Core.o
+ .comment       0x00000076       0x77 ./src/Config/Comm/libs/uartstdio.o
+ .comment       0x00000076       0x77 ./src/Config/Comm/Comm.o
+ .comment       0x00000076       0x77 ./src/REPL.o
+ .comment       0x00000076       0x77 ./main.o
+ .comment       0x00000076       0x77 ./startup_gcc.o
+ .comment       0x00000076       0x70 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+                                 0x71 (size before relaxing)
+ .comment       0x000000e6       0x71 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .comment       0x000000e6       0x71 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .comment       0x000000e6       0x71 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .comment       0x000000e6       0x71 C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(cpu.o)
+
+.ARM.attributes
+                0x00000000       0x32
+ .ARM.attributes
+                0x00000000       0x34 ./src/Loop/Read/Read.o
+ .ARM.attributes
+                0x00000034       0x34 ./src/Loop/Print/Print.o
+ .ARM.attributes
+                0x00000068       0x34 ./src/Loop/Print/Screens.o
+ .ARM.attributes
+                0x0000009c       0x34 ./src/Loop/Eval/Commands.o
+ .ARM.attributes
+                0x000000d0       0x34 ./src/Loop/Eval/Evaluate.o
+ .ARM.attributes
+                0x00000104       0x34 ./src/Loop/Eval/cmdline.o
+ .ARM.attributes
+                0x00000138       0x34 ./src/Config/Temp/Temp.o
+ .ARM.attributes
+                0x0000016c       0x34 ./src/Config/Core/Core.o
+ .ARM.attributes
+                0x000001a0       0x34 ./src/Config/Comm/libs/uartstdio.o
+ .ARM.attributes
+                0x000001d4       0x34 ./src/Config/Comm/Comm.o
+ .ARM.attributes
+                0x00000208       0x34 ./src/REPL.o
+ .ARM.attributes
+                0x0000023c       0x34 ./main.o
+ .ARM.attributes
+                0x00000270       0x34 ./startup_gcc.o
+ .ARM.attributes
+                0x000002a4       0x3b C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(adc.o)
+ .ARM.attributes
+                0x000002df       0x3b C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(gpio.o)
+ .ARM.attributes
+                0x0000031a       0x3b C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(interrupt.o)
+ .ARM.attributes
+                0x00000355       0x3b C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(sysctl.o)
+ .ARM.attributes
+                0x00000390       0x3b C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gcc\libdriver.a(cpu.o)
+ .ARM.attributes
+                0x000003cb       0x1c c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-strcmp.o)
+
+.debug_frame    0x00000000      0x578
+ .debug_frame   0x00000000       0x3c ./src/Loop/Read/Read.o
+ .debug_frame   0x0000003c       0x20 ./src/Loop/Print/Print.o
+ .debug_frame   0x0000005c       0xe4 ./src/Loop/Print/Screens.o
+ .debug_frame   0x00000140       0x58 ./src/Loop/Eval/Commands.o
+ .debug_frame   0x00000198       0x20 ./src/Loop/Eval/Evaluate.o
+ .debug_frame   0x000001b8       0x38 ./src/Loop/Eval/cmdline.o
+ .debug_frame   0x000001f0       0x68 ./src/Config/Temp/Temp.o
+ .debug_frame   0x00000258       0x30 ./src/Config/Core/Core.o
+ .debug_frame   0x00000288      0x1ec ./src/Config/Comm/libs/uartstdio.o
+ .debug_frame   0x00000474       0x2c ./src/Config/Comm/Comm.o
+ .debug_frame   0x000004a0       0x28 ./src/REPL.o
+ .debug_frame   0x000004c8       0x28 ./main.o
+ .debug_frame   0x000004f0       0x68 ./startup_gcc.o
+ .debug_frame   0x00000558       0x20 c:/program files (x86)/gnu tools arm embedded/8 2019-q3-update/bin/../lib/gcc/arm-none-eabi/8.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-strcmp.o)
+
+.debug_loc      0x00000000     0x1275
+ .debug_loc     0x00000000       0x34 ./src/Loop/Print/Print.o
+ .debug_loc     0x00000034       0x16 ./src/Loop/Print/Screens.o
+ .debug_loc     0x0000004a       0xb9 ./src/Loop/Eval/Commands.o
+ .debug_loc     0x00000103       0x25 ./src/Loop/Eval/Evaluate.o
+ .debug_loc     0x00000128      0x13f ./src/Loop/Eval/cmdline.o
+ .debug_loc     0x00000267      0xf02 ./src/Config/Comm/libs/uartstdio.o
+ .debug_loc     0x00001169       0x23 ./src/REPL.o
+ .debug_loc     0x0000118c       0xe9 ./startup_gcc.o
