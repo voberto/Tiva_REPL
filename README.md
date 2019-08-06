@@ -21,7 +21,7 @@ The current version provides the following commands:
 
 #### 1.1 - Example Usage
 
-
+![] example_usage.gif
 
 ### 2 - Constraints
 
