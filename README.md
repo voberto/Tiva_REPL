@@ -11,24 +11,24 @@ With Windows, you can use Putty and connect with the board through the serial co
 
 The current version provides the following commands:
 
-**clear** -> Clears the screen.
+i) **clear** -> Clears the screen.
 
-**help** -> Shows help menu.
+ii) **help** -> Shows help menu.
 
-**clock** -> returns core's clock (in Hz).
+iii) **clock** -> returns core's clock (in Hz).
 
-**temp** -> returns core temperature measured by the internal sensor of the microcontroller (in Celsius degrees).
+iv) **temp** -> returns core temperature measured by the internal sensor of the microcontroller (in Celsius degrees).
 
 #### 1.1 - Example Usage
 
-![] example_usage.gif
+![](example_usage.gif)
 
 ### 2 - Constraints
 
 This project was developed with the following tools:
 
-**Eclipse IDE**
+i) **Eclipse IDE**
 
-**openocd-0.8.0**
+ii) **openocd-0.8.0**
 
-**SW-TM4C Tivaware for C Series Software (version 2.1.4.178)**
+iii) **SW-TM4C Tivaware for C Series Software (version 2.1.4.178)**
